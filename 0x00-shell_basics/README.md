@@ -2,4 +2,5 @@
 Change directory to root
 long format
 lomnng format with hidden files 
-long format with user and ids with hidden files 
+long format with user and ids with hidden files
+creating a directiory 
