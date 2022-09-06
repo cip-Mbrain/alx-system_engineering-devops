@@ -10,4 +10,5 @@ a script that duplicates the last line of the file iacta
 a script that displays all users and their home directories, sorted by users.
 
 Based on the the /etc/passwd file
-Write a script that reverse its input.
+Write a script that reverse its input
+Create a script that removes all letters c and C from inpu.
