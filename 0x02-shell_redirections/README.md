@@ -13,3 +13,5 @@ Based on the the /etc/passwd file
 Write a script that reverse its input
 Create a script that removes all letters c and C from inpu.
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
