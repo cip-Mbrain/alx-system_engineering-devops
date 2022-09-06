@@ -17,4 +17,5 @@ Display all the lines in the file /etc/passwd that do not contain the pattern �
 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 Display the number of lines that contain the pattern “bin” in the file /etc/passwdi
 Display lines containing the pattern “root” from the file /etc/passwd
-Create a script that takes a list of words as input and prints only words that appear exactly once.
+Create a script that takes a list of words as input and prints only words that appear exactly once
+Create a script that displays the 10 newest files in the current directory..
