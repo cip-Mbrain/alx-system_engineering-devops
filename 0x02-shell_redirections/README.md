@@ -18,4 +18,8 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display the number of lines that contain the pattern “bin” in the file /etc/passwdi
 Display lines containing the pattern “root” from the file /etc/passwd
 Create a script that takes a list of words as input and prints only words that appear exactly once
-Create a script that displays the 10 newest files in the current directory..
+Create a script that displays the 10 newest files in the current directory.
+Write a script that counts the number of directories and sub-directories in the current directory.
+
+The current and parent directories should not be taken into account
+Hidden directories should be counted.
